@@ -1,4 +1,4 @@
-# Tropic VMU revC BOM
+# Tropic Community VMU revC BOM
 
 |     Top Designator                                     | Comment                | Footprint                                  | Part number           |
 |--------------------------------------------------------|------------------------|--------------------------------------------|-----------------------|

@@ -1,9 +1,9 @@
 # Cognipilot
 ![Cognipilot](assets/cognipilot.png)
 
-CogniPilot is a new class of open source autopilot that can conduct safety critical missions such as public transport, with a level of safety assurance not currently available in other open source autopilots. CogniPilot focuses on state-of-the-art methologies for creating an autopilot with mathematically provable robustness properties.
+CogniPilot is a new class of open source autopilot that can conduct safety critical missions such as public transport, with a level of safety assurance not currently available in other open source autopilots. CogniPilot focuses on state-of-the-art methodologies for creating an autopilot with mathematically provable robustness properties.
 
-For more information on how to setup your enviroment and build cognipilot checkout the [Cognipilot developers guide](https://cognipilot.org/)
+For more information on how to setup your environment and build cognipilot checkout the [Cognipilot developers guide](https://cognipilot.org/)
 
 # Flashing the board
 

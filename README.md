@@ -1,6 +1,6 @@
-# Tropic VMU
+# Tropic Community VMU
 
-Tropic VMU (Vehicle Management Unit) is an BSD-3 Licensed Open-Source base board designed around the [Teensy 4.1 Development board](https://www.pjrc.com/store/teensy41.html).
+Tropic Community VMU (Vehicle Management Unit) is an BSD-3 Licensed Open-Source base board designed around the [Teensy 4.1 Development board](https://www.pjrc.com/store/teensy41.html).
 
 > [!NOTE]  
 > Tropic VMU is a project created by a group of passionate individuals who work on it in their free time. It's important for users to understand that Tropic might not provide the same reliability, features, or support as products from well-established companies. Using Tropic is entirely up to the user's discretion and comes with its own risks.
@@ -9,7 +9,7 @@ Tropic VMU (Vehicle Management Unit) is an BSD-3 Licensed Open-Source base board
 
 ![Tropic](assets/tropic.png)
 
-Tropic VMU is capable of running autopilot software for unmanned vehicles such as:
+Tropic Community VMU is capable of running autopilot software for unmanned vehicles such as:
  - Drones
  - Rovers
  - Boats
@@ -22,7 +22,7 @@ Tropic VMU is capable of running autopilot software for unmanned vehicles such a
 
 # Software
 
-The Tropic VMU supports multiple Autopilots, please check the individual guide below
+The Tropic Community VMU supports multiple Autopilots, please check the individual guide below
 
  - [Cognipilot setup guide](./Cognipilot.md)
  - [PX4 Autopilot setup guide](./PX4_Autopilot.md)
@@ -35,7 +35,7 @@ Tropic VMU also supports Zephyr RTOS with most of it's peripherals enabled.
 
 # Hardware
 
-Tropic VMU utilizes the Teensy 4.1 consisting of:
+Tropic Community VMU utilizes the Teensy 4.1 consisting of:
 
 - NXP MIMXRT1062DVJ6B MCU
 - Cortex-M7 600MHz
@@ -80,10 +80,10 @@ Some of the JST-GH connectors pinout follows the [DS-009 connector specification
 
 # Powering the board
 
-The Tropic VMU can be powered in 2 ways
+The Tropic Community VMU can be powered in 2 ways
 
 > [!WARNING]  
-> You should only power the Tropic VMU through either method 1. or 2. For example the current can flow from the power module to your usb potentially damaging your machine.
+> You should only power the Tropic Community VMU through either method 1. or 2. For example the current can flow from the power module to your usb potentially damaging your machine.
 > You should to cut the power pad on the Teensy as a precaution if you want to use USB and the Power-module simultaneously, but by doing so you would lose the ability to power the board through USB.
 > For more information see [Teensy External Power](https://www.pjrc.com/teensy/external_power.html) guide.
 
@@ -137,16 +137,16 @@ The Tropic VMU can be powered in 2 ways
 
 # Open-source hardware Design
 
-Tropic VMU design is licensed under BSD-3 and all design files are published on this git.
+Tropic Community VMU design is licensed under BSD-3 and all design files are published on this git.
 
 ## Schematics
-[Tropic VMU rev.C schematics](./schematics/Schematic_Tropic-VMU_2024-05-31_revC.pdf)
+[Tropic Community VMU rev.C schematics](./schematics/Schematic_Tropic-VMU_2024-05-31_revC.pdf)
 
 ## PCB Design
 
 The board is designed using [EasyEda Std Edition](https://easyeda.com/editor), to import the project you've to create a new project in EasyEda Std edition and select File -> Open -> EasyEda and select the json files available in the zip file.
 
-[Tropic VMU rev.C EasyEda zip file](./board/tropic_vmu_easyeda_revc.zip)
+[Tropic Community VMU rev.C EasyEda zip file](./board/tropic_vmu_easyeda_revc.zip)
 
 ## Bill-of-Material (BOM)
 

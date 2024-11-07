@@ -1,6 +1,6 @@
 # Tropic Power Module
 
-Tropic Power Module is an BSD-3 Licensed Open-Source board designed for the [Tropic VMU (Vehicle Management Unit)](./README.md)
+Tropic Power Module is an BSD-3 Licensed Open-Source board designed for the [Tropic Community VMU (Vehicle Management Unit)](./README.md)
 It provides analog measurement of voltage and current which can be used by flight control software to estimate the battery state and/or power consumption.
 
 ![Tropic](assets/tropic_power_module.png)
